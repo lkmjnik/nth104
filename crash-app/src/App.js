@@ -1,4 +1,4 @@
-import Pages from "./pages/Pages";
+import Pages from "./pages/pages";
 
 
 
